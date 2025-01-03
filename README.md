@@ -1,6 +1,7 @@
 # test
 Hello World!
 Hey dude!
+Hi guy!
 Learn git commands:
 - cmd1
 - cmd2
